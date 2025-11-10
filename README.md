@@ -1,6 +1,6 @@
 # EXP 2: Linear and Circular Convolution
-## Giri R
-## 212223060068
+## Pradeep M
+## 212223060200
 ## AIM: 
  To perform Linear and Circular Convolution for two given sequence using SCILAB. 
  
